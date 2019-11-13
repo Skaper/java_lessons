@@ -21,14 +21,13 @@ Source code of my own java lessons for beginners
 * **Winner.java** - How to use String array in java
 * **CycleWins.java** - Using the for statement for String array.
 * **CycleWins2.java** - Using the while statement for String array.
-### 7 lesson
-* ** **
-* ** ** 
-* ** **
+### 7 lesson. Introduction in Java OOP. Classes
+* **Pet.java** - First class which describe some object. Attributes of a class, methods with different return types.
+* **PetMaster.java** - Create an instance of the Pet class and use its method.
 ### 8 lesson
-* ** **
-* ** ** 
-* ** **
+* **Pet.java** - 
+* **Fish.java** - 
+* **PetMaster.java** -
 ### 9 lesson
 * ** **
 * ** ** 
