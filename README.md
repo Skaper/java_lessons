@@ -46,3 +46,6 @@ Source code of my own java lessons for beginners
 * **Dialog.java** - A simple example of showing a message dialog when you click a button.
 * **DialogRadio.java** - App for demonstration how to work with JRadioButtons and processing user choose.
 
+### 13 lesson. Introduction in C language. Programming for arduino
+* **hello.ino** - Simple Hello World Arduino sketch.
+* **trekduino_serial.ino** - Arduino sketch which can simulate 4-buttons gamepad using serial interface.
