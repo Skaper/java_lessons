@@ -14,15 +14,15 @@ Source code of my own java lessons for beginners
 * **Assig.java** - Example of two assignment operators %= and *= .
 * **LogicTree.java** - Boolean logical operators and the if...else if...else statement.
 ### 5 lesson
-* **Cycle.java** - The while statement use with conditions.
-* **SimpleChat.java** - Simple console chat, question - answer. Using Scanner class for reading input user text, method equals from String class for founding answers, casting in Java.
-* **SimpleChat2.java** - Modification of SimpleChat for remembering some user answers.
+* **Cycle.java** - The while statement used with conditions.
+* **SimpleChat.java** - Simple console chat, question - answer form. Using Scanner class for reading input user's text, method equals() from String class for founding answers, casting in Java.
+* **SimpleChat2.java** - Modification of SimpleChat for remembering some user's answers.
 ### 6 lesson
 * **Winner.java** - How to use String array in java
-* **CycleWins.java** - Using the for statement for String array.
-* **CycleWins2.java** - Using the while statement for String array.
+* **CycleWins.java** - Using "The For Statement" for String array.
+* **CycleWins2.java** - Using "The While Statement" for String array.
 ### 7 lesson. Introduction in Java OOP. Classes
-* **Pet.java** - First class which describe some object. Attributes of a class, methods with different return types.
+* **Pet.java** - First class which describes some objects. Attributes of a class, methods with different return types.
 * **PetMaster.java** - Create an instance of the Pet class and use its method.
 ### 8 lesson
 * **Pet.java** - 
@@ -43,7 +43,7 @@ Source code of my own java lessons for beginners
 ### 12 lesson. Swing
 * **Button.java** - Setting the position and size of a JButton component. setBounds() method.
 * **Dialog.java** - A simple example of showing a message dialog when you click a button.
-* **DialogRadio.java** - App for demonstration how to work with JRadioButtons and processing user choose.
+* **DialogRadio.java** - App for demonstration how to work with JRadioButtons and processing user's choose.
 
 ### 13 lesson. Introduction in C language. Programming for arduino
 * **hello.ino** - Simple Hello World Arduino sketch.
